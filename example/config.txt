@@ -1,0 +1,2 @@
+Prefix plugins/GPUDePiCt/example
+Plugin GPUDePiCt inputfile parameters.txt outputfile none

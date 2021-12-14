@@ -1,0 +1,8 @@
+inputfile	drosN11M762.aln
+rows	11
+seqlength	762
+AAorNuc	1
+kmeans	0
+fuzzy	0
+tolerance	0
+minlength	12
